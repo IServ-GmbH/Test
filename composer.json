@@ -16,12 +16,10 @@
             "role": "lead"
         }
     ],
-    "version": "103",
-    "time": "2020-03-15",
     "require": {
         "php": ">=7.3",
-        "horde/support": "103",
-        "horde/util": "103"
+        "horde/support": ">=106",
+        "horde/util": ">=106"
     },
     "suggest": {
         "ext-dom": "*",
